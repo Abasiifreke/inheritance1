@@ -1,0 +1,29 @@
+.container {
+    border: 2px black solid;
+            border-radius: 25px;
+            padding: 15px 20px 80px;
+            width: 310px;
+        
+}
+.likes {
+    font-style: italic;
+    background-color: aqua;
+    border-radius: 10px;
+}
+h3.b {
+    text-align: center;
+}
+
+.dislikes {
+font-style: initial;
+background-color:bisque;
+}
+
+#ab {
+    color: blue;
+}
+
+#as {
+    color: blueviolet;
+    
+}
